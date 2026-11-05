@@ -2,7 +2,7 @@
 
 We are building an Environmental Intelligence & Compliance Management System.
 
-Create a root-level knowledge.md containing the following permanent project requirements. Do not implement the application yet.
+
 
 ## PROJECT PURPOSE
 
